@@ -10,8 +10,8 @@ api_key = os.environ['CHARTMOGUL_KEY']
 selected_interval = 'month'
 
 #chose reporting quarter to obtain MRR for
-selected_year = 2021
-selected_quarter = 3
+selected_year = 2019
+selected_quarter = 1
 
 #calculate start and end dates of selected quarter
 first_month_of_quarter = 3 * selected_quarter - 2
